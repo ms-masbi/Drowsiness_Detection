@@ -27,16 +27,16 @@ Each eye is represented by 6 (x, y)-coordinates, starting at the left-corner of 
 
 It checks 20 consecutive frames and if the Eye Aspect ratio is less than 0.25, Alert is generated.
 
-<img src="https://github.com/ms-masbi/assets/eye1.jpg">
+<img src="https://github.com/ms-masbi/Drowsiness_Detection/assets/eye1.jpg">
 
 
 #### Relationship
 
-<img src="https://github.com/ms-masbi/assets/eye2.png">
+<img src="https://github.com/ms-masbi/Drowsiness_Detection/assets/eye2.png">
 
 #### Summing up
 
-<img src="https://github.com/ms-masbi/assets/eye3.jpg">
+<img src="https://github.com/ms-masbi/Drowsiness_Detection/assets/eye3.jpg">
 
 
 For more information, [see](https://www.pyimagesearch.com/2017/05/08/drowsiness-detection-opencv/)
